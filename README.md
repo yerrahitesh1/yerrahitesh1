@@ -2,7 +2,7 @@
 <h3 align="center">Python • Django • SQL | Turning coffee into code ☕</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yerrahitesh1/yerrahitesh1/main/profile.png" alt="Profile Badge" width="150" />
+  <img src="https://github.com/yerrahitesh1/yerrahitesh1/blob/main/Digital_photograph.png.png?raw=true" alt="Profile Badge" width="150" />
 </p>
 
 ---
