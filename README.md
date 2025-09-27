@@ -8,7 +8,7 @@
 ---
 
 ### ​ About Me
-- 🐍 Python developer with **1 year of experience**
+- 🐍 Python developer 
 - 🌱 Currently learning **Django, REST APIs, and advanced SQL**
 - 🛠 Skilled in **Python, Django, SQL, HTML, CSS, Pandas**
 - 👯 Looking to collaborate on **Python/Django open-source projects**
